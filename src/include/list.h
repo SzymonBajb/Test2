@@ -6,6 +6,7 @@ using std::endl;
 using std::string;
 using std::cin;
 using std::vector;
+using std::ofstream;
 
 
 class List {

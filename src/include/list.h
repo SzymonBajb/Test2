@@ -7,6 +7,7 @@ using std::string;
 using std::cin;
 using std::vector;
 using std::ofstream;
+using std::ifstream;
 
 
 class List {

@@ -10,12 +10,12 @@ using std::string;
 using std::cin;
 using std::vector;
 using std::ofstream;
+using std::ifstream;
 
 
 class Database {
     private:
     protected:
-
     public:
     Database(){
         //constructor
@@ -26,6 +26,6 @@ class Database {
     vector<string> list;
     string name;
 
-    void write();
+    void write(vector<string> list);
     void read();
 };

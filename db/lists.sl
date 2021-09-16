@@ -1,1 +1,15 @@
-w1
+#Szymon
+item1
+item5
+Item6
+%
+#Marek
+item5
+item6
+item7
+Item8
+%
+#Tomek
+Item9
+Item11
+%
